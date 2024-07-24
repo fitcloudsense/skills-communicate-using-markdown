@@ -1,11 +1,5 @@
-### How it looks
 
-<img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
-
-
-```md
-
-Image of Yaktocat
-
-
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
 
